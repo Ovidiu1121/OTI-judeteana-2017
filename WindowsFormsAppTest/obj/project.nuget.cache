@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8BjpRZT/rXBpuQxMLKKZotePdkOBhAmYq/rVDElVyLlKey2PB6IEMmJ0yajyFdEa5fQkVHc6LGAyLSVho8PAA==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\programre-vizuala-csharp\\Aplicatii\\Subiect-OTI-judeteana2017\\WindowsFormsAppTest\\WindowsFormsAppTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utilizator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\Utilizator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Utilizator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Utilizator\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
