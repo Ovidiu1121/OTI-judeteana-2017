@@ -4,9 +4,6 @@
     <Compile Update="forms\GenereazaPoster.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="mockups\MockupGenereazaPoster.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="forms\VizualiozareExcursie.cs">
       <SubType>Form</SubType>
     </Compile>
